@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="theme-color" content="#202020">
     <!--   Name Tab  /  Icon favicon   -->
-    <title>[ COF ] Design</title>
+    <title>Title</title>
     <link rel="icon" type="image/png" href="favicon/favicon.png" sizes="512x512">		
     <!--   Css / File   -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
