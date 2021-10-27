@@ -1,12 +1,52 @@
-## db-Style guide
+## db-Style Guide
+### New html file
+```markdown
 
-You can use the [editor on GitHub](https://github.com/justdimy/db-design/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="ru-UA">
+<head>																		
+<meta charset="UTF-8">
+<meta name="theme-color" content="#202020">
+    <!--   Name Tab  /  Icon favicon   -->
+    <title>[ COF ] Design</title>
+    <link rel="icon" type="image/png" href="favicon/favicon.png" sizes="512x512">		
+    <!--   Css / File   -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/fonts.css">
+    <link rel="stylesheet" type="text/css" href="css/material-icons.css">
+    <link rel="stylesheet" type="text/css" href="css/developers.css">
+    <style><!--   Css / Style   -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    </style>   
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+```
+
+
+
+
+
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
